@@ -1,5 +1,5 @@
 # Calculating-PI-Chudnovsky
-This is a small project for calculating the value of Pi.
+This is a small project for calculating the value of Pi. Basically, the program calculate the [Chunovsky Series](https://en.wikipedia.org/wiki/Chudnovsky_algorithm), an efficient approach to get the value of Pi.
 
 - **pi.cpp** : The source code to calculate Chudnovsky Series with multithreads.
 - **pi** : The executable file. Execute the file with the command, `./pi -p [digits]`.
